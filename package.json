@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/string-replace-before",
-  "version": null,
+  "version": "0.0.0",
   "description": "Replace the substring before the first occurrence of a specified search string.",
   "license": "Apache-2.0",
   "author": {
@@ -47,7 +47,7 @@
     "@stdlib/process-read-stdin": "^0.0.7",
     "@stdlib/regexp-eol": "^0.0.7",
     "@stdlib/streams-node-stdin": "^0.0.7",
-    "@stdlib/string-base-replace-before": "^github:stdlib-js/string-base-replace-before#main",
+    "@stdlib/string-base-replace-before": "github:stdlib-js/string-base-replace-before#main",
     "@stdlib/string-format": "^0.0.3",
     "@stdlib/utils-regexp-from-string": "^0.0.9"
   },
