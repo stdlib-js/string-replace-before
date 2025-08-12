@@ -210,7 +210,7 @@ To use as a [standard stream][standard-streams],
 
 ```bash
 $ echo -n $'beep\nboop' | replace-before --search p --replacement see
-seep 
+seep
 seep
 ```
 
@@ -218,7 +218,7 @@ By default, when used as a [standard stream][standard-streams], the implementati
 
 ```bash
 $ echo -n 'beep\tboop' | replace-before --search p --replacement see --split '\t'
-seep 
+seep
 seep
 ```
 
